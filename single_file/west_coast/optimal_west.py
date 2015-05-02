@@ -25,7 +25,8 @@ thisRunGenerations=5000
 thisRunPopulation_size=100
 
 
-all_waypoints = ["Silver Lake, Los Angeles, CA", # As an Angeleno, clearly I am partial to the hipster neighborhoods of my city. 
+all_waypoints = ["Capitol Hill, Seattle, WA",
+                "Silver Lake, Los Angeles, CA", # As an Angeleno, clearly I am partial to the hipster neighborhoods of my city. 
                 "Los Feliz, Los Angeles, CA",
                 "Highland Park, Los Angeles, CA",
                 "Arts District, Los Angeles, CA",
@@ -34,6 +35,10 @@ all_waypoints = ["Silver Lake, Los Angeles, CA", # As an Angeleno, clearly I am 
                 "North Park, San Diego, CA",
                 "Alberta, Portland, OR", # The dreams of the 90s are alive in Portland... Portland... Portland... 
                 "Pearl District, Portland, OR",
+                "Yountville, CA",
+                "Healdsburg, CA",
+                "Bend, OR",
+                "Ashland, OR",
                 "Downtown, Portland, OR",
                 "The Uptown, Oakland, CA"]
                 

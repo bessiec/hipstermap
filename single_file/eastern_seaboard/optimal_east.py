@@ -39,6 +39,8 @@ all_waypoints = ["East Austin, Austin, TX", # Breakfast tacos!
                 "Warehouse District, New Orleans, LA"
                 "Louisville, KY",
                 "Savannah, GA",
+                "Oklahoma City, OK",
+                "New Orleans, LA",
                 "Asheville, NC",
                 "Northern Liberties, Philadelphia, PA",
                 "Allston-Brighton, Boston, MA",

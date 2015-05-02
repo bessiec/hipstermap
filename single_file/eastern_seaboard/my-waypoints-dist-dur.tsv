@@ -1,27 +1,33 @@
 waypoint1	waypoint2	distance_m	duration_s
 East Nashville, Nashville, TN	Williamsburg, Brooklyn, NY	1431073	48268
 Wicker Park, Chicago, IL	Asheville, NC	1059786	35626
+Westheimer Road, Houston, TX	New Orleans, LA	580345	19771
 H Street Corridor, Washington, DC	Asheville, NC	774676	26109
-Kansas City, MO	Allston-Brighton, Boston, MA	2298078	75638
-Providence, RI	Hampden, Baltimore, MD	604967	21460
-H Street Corridor, Washington, DC	East Austin, Austin, TX	2458537	80301
+Kansas City, MO	Allston-Brighton, Boston, MA	2298078	75637
+Providence, RI	Hampden, Baltimore, MD	604967	21463
+H Street Corridor, Washington, DC	East Austin, Austin, TX	2458533	80300
 Somerville, MA	Asheville, NC	1462131	49890
 Charleston, SC	Bushwick, Brooklyn, NY	1230949	41996
-Wynwood, Miami, FL	Allston-Brighton, Boston, MA	2389747	77992
+Oklahoma City, OK	Hampden, Baltimore, MD	2116684	70861
 Little Five Points, Atlanta, GA	Northern Liberties, Philadelphia, PA	1253967	42218
 Kansas City, MO	Wynwood, Miami, FL	2347492	74706
-Providence, RI	Northern Liberties, Philadelphia, PA	441904	16272
+Williamsburg, Brooklyn, NY	New Orleans, LA	2101259	69234
 H Street Corridor, Washington, DC	Savannah, GA	926864	30158
 H Street Corridor, Washington, DC	East Nashville, Nashville, TN	1080602	36050
 Westheimer Road, Houston, TX	Northern Liberties, Philadelphia, PA	2508445	82289
-Wynwood, Miami, FL	Bushwick, Brooklyn, NY	2063610	67634
+East Nashville, Nashville, TN	Hampden, Baltimore, MD	1139499	38107
 Westheimer Road, Houston, TX	Allston-Brighton, Boston, MA	2987234	98142
 Savannah, GA	Northern Liberties, Philadelphia, PA	1148445	37736
-Little Five Points, Atlanta, GA	Allston-Brighton, Boston, MA	1729472	58644
+Little Five Points, Atlanta, GA	Allston-Brighton, Boston, MA	1729472	58643
+Oklahoma City, OK	Westheimer Road, Houston, TX	732402	24316
+Oklahoma City, OK	Bushwick, Brooklyn, NY	2337778	79182
 East Nashville, Nashville, TN	Wynwood, Miami, FL	1462627	46540
 Wicker Park, Chicago, IL	Bushwick, Brooklyn, NY	1284044	44966
 Kansas City, MO	H Street Corridor, Washington, DC	1709033	57897
 Little Five Points, Atlanta, GA	Williamsburg, Brooklyn, NY	1400304	47607
+Kansas City, MO	Charleston, SC	1773982	58029
+New Orleans, LA	Charleston, SC	1240562	40016
+Kansas City, MO	New Orleans, LA	1361085	46272
 Williamsburg, Brooklyn, NY	Wynwood, Miami, FL	2060400	66847
 Providence, RI	North Loop, Minneapolis, MN	2225791	74430
 H Street Corridor, Washington, DC	Williamsburg, Brooklyn, NY	367346	13704
@@ -31,112 +37,135 @@ North Loop, Minneapolis, MN	Hampden, Baltimore, MD	1793598	60392
 Portland, ME	North Loop, Minneapolis, MN	2408265	80131
 Somerville, MA	Hampden, Baltimore, MD	656493	23749
 Portland, ME	Somerville, MA	177483	6555
+Oklahoma City, OK	Wynwood, Miami, FL	2424327	77438
+Wynwood, Miami, FL	Bushwick, Brooklyn, NY	2063610	67634
 H Street Corridor, Washington, DC	Portland, ME	860334	30441
 H Street Corridor, Washington, DC	Hampden, Baltimore, MD	65396	3481
 North Loop, Minneapolis, MN	Charleston, SC	2126042	70208
 Little Five Points, Atlanta, GA	H Street Corridor, Washington, DC	1031109	34361
-Providence, RI	Savannah, GA	1577215	52537
+Oklahoma City, OK	Little Five Points, Atlanta, GA	1370911	44985
+Providence, RI	Savannah, GA	1577215	52540
 Kansas City, MO	East Nashville, Nashville, TN	893407	29066
 Williamsburg, Brooklyn, NY	Northern Liberties, Philadelphia, PA	159535	6729
 Little Five Points, Atlanta, GA	Wicker Park, Chicago, IL	1162285	38972
-Westheimer Road, Houston, TX	Asheville, NC	1630740	53419
+Little Five Points, Atlanta, GA	New Orleans, LA	760863	24119
 Wynwood, Miami, FL	Somerville, MA	2393564	78715
 Savannah, GA	Asheville, NC	498608	16352
-East Nashville, Nashville, TN	Allston-Brighton, Boston, MA	1775746	59335
+East Nashville, Nashville, TN	Allston-Brighton, Boston, MA	1775746	59334
 H Street Corridor, Washington, DC	Wicker Park, Chicago, IL	1138739	39003
 Kansas City, MO	Bushwick, Brooklyn, NY	1926910	66061
-Warehouse District, New Orleans, LALouisville, KY	Westheimer Road, Houston, TX	1650286	56462
+Warehouse District, New Orleans, LALouisville, KY	Westheimer Road, Houston, TX	1650286	56466
 Allston-Brighton, Boston, MA	Charleston, SC	1557086	52354
 Little Five Points, Atlanta, GA	Westheimer Road, Houston, TX	1301855	41986
 Westheimer Road, Houston, TX	Hampden, Baltimore, MD	2353525	77117
-Providence, RI	Westheimer Road, Houston, TX	2930322	96857
+Providence, RI	Westheimer Road, Houston, TX	2930322	96859
 H Street Corridor, Washington, DC	Somerville, MA	700510	25573
 Northern Liberties, Philadelphia, PA	Bushwick, Brooklyn, NY	162745	7516
-Kansas City, MO	East Austin, Austin, TX	1186897	37832
+Oklahoma City, OK	Charleston, SC	1858702	61131
 East Nashville, Nashville, TN	North Loop, Minneapolis, MN	1424754	46025
-Williamsburg, Brooklyn, NY	Somerville, MA	340600	13332
+Williamsburg, Brooklyn, NY	Somerville, MA	340599	13332
+Savannah, GA	New Orleans, LA	1032433	34417
 Warehouse District, New Orleans, LALouisville, KY	Hampden, Baltimore, MD	853491	29064
-Providence, RI	Charleston, SC	1508826	50853
+Providence, RI	Charleston, SC	1508826	50861
 Williamsburg, Brooklyn, NY	Wicker Park, Chicago, IL	1279179	44203
 Westheimer Road, Houston, TX	Charleston, SC	1782273	58057
 Little Five Points, Atlanta, GA	Bushwick, Brooklyn, NY	1402954	48247
 Portland, ME	Bushwick, Brooklyn, NY	503393	18345
 Bushwick, Brooklyn, NY	Hampden, Baltimore, MD	325185	12688
-East Austin, Austin, TX	North Loop, Minneapolis, MN	1889655	60237
-Providence, RI	Allston-Brighton, Boston, MA	87128	3536
+East Austin, Austin, TX	North Loop, Minneapolis, MN	1889651	60236
+Oklahoma City, OK	North Loop, Minneapolis, MN	1269644	40285
 Kansas City, MO	Portland, ME	2462555	81114
 Kansas City, MO	Hampden, Baltimore, MD	1701320	57682
 Warehouse District, New Orleans, LALouisville, KY	Asheville, NC	430566	14782
 Kansas City, MO	Westheimer Road, Houston, TX	1210820	41213
 Kansas City, MO	Warehouse District, New Orleans, LALouisville, KY	970996	31739
-East Austin, Austin, TX	Williamsburg, Brooklyn, NY	2809008	92518
+East Nashville, Nashville, TN	New Orleans, LA	861808	27870
+East Austin, Austin, TX	Williamsburg, Brooklyn, NY	2809004	92517
 Savannah, GA	North Loop, Minneapolis, MN	2216498	71353
-Providence, RI	Williamsburg, Brooklyn, NY	288726	11058
+Providence, RI	Williamsburg, Brooklyn, NY	290515	11067
 Wicker Park, Chicago, IL	Northern Liberties, Philadelphia, PA	1228714	41657
+Oklahoma City, OK	New Orleans, LA	1142157	37871
 Warehouse District, New Orleans, LALouisville, KY	Portland, ME	1639565	55387
 Somerville, MA	Bushwick, Brooklyn, NY	342289	13538
 H Street Corridor, Washington, DC	Northern Liberties, Philadelphia, PA	220353	8539
 Charleston, SC	Asheville, NC	430943	14380
-Savannah, GA	Allston-Brighton, Boston, MA	1623949	54161
-East Austin, Austin, TX	Bushwick, Brooklyn, NY	2813874	93281
-Allston-Brighton, Boston, MA	Northern Liberties, Philadelphia, PA	488638	17896
+Savannah, GA	Allston-Brighton, Boston, MA	1623949	54160
+Allston-Brighton, Boston, MA	New Orleans, LA	2447630	80430
+East Austin, Austin, TX	Bushwick, Brooklyn, NY	2813870	93280
+Allston-Brighton, Boston, MA	Northern Liberties, Philadelphia, PA	488638	17895
 Little Five Points, Atlanta, GA	Asheville, NC	336060	12314
 North Loop, Minneapolis, MN	Northern Liberties, Philadelphia, PA	1891286	63260
 Asheville, NC	Hampden, Baltimore, MD	824605	28142
 Westheimer Road, Houston, TX	Somerville, MA	2991052	98865
+Providence, RI	Northern Liberties, Philadelphia, PA	441904	16275
 Providence, RI	Somerville, MA	87360	3847
-Wicker Park, Chicago, IL	Wynwood, Miami, FL	2221623	71626
+Warehouse District, New Orleans, LALouisville, KY	New Orleans, LA	1207286	38928
+Wicker Park, Chicago, IL	Wynwood, Miami, FL	2221623	71625
 East Nashville, Nashville, TN	Warehouse District, New Orleans, LALouisville, KY	370648	12772
 East Austin, Austin, TX	Wynwood, Miami, FL	2165100	69112
 Wynwood, Miami, FL	Hampden, Baltimore, MD	1758450	56624
 Warehouse District, New Orleans, LALouisville, KY	Northern Liberties, Philadelphia, PA	1020454	34355
 Williamsburg, Brooklyn, NY	Savannah, GA	1296661	43147
-Westheimer Road, Houston, TX	Wicker Park, Chicago, IL	1773430	59876
-East Nashville, Nashville, TN	Hampden, Baltimore, MD	1139499	38107
+Westheimer Road, Houston, TX	Wicker Park, Chicago, IL	1773430	59879
+Oklahoma City, OK	Kansas City, MO	567787	17909
 Portland, ME	Wynwood, Miami, FL	2553875	83314
+Oklahoma City, OK	H Street Corridor, Washington, DC	2167310	70974
 East Austin, Austin, TX	Savannah, GA	1812467	60190
-Allston-Brighton, Boston, MA	Bushwick, Brooklyn, NY	338917	12868
-Westheimer Road, Houston, TX	Portland, ME	3153991	103964
+Allston-Brighton, Boston, MA	Bushwick, Brooklyn, NY	338917	12867
+H Street Corridor, Washington, DC	New Orleans, LA	1753189	57237
+Kansas City, MO	Savannah, GA	1685151	54394
+Wicker Park, Chicago, IL	New Orleans, LA	1494903	48430
 Portland, ME	Hampden, Baltimore, MD	816178	28561
 Warehouse District, New Orleans, LALouisville, KY	Williamsburg, Brooklyn, NY	1127680	38689
-Portland, ME	Asheville, NC	1624922	54680
+Oklahoma City, OK	Somerville, MA	2714636	89489
+Oklahoma City, OK	Wicker Park, Chicago, IL	1281937	41934
 Kansas City, MO	Wicker Park, Chicago, IL	824949	27562
-North Loop, Minneapolis, MN	Somerville, MA	2237044	75326
+North Loop, Minneapolis, MN	Somerville, MA	2237043	75326
+Oklahoma City, OK	Williamsburg, Brooklyn, NY	2332535	78280
 Providence, RI	Bushwick, Brooklyn, NY	290267	11177
 Portland, ME	Charleston, SC	1719996	57762
-East Austin, Austin, TX	East Nashville, Nashville, TN	1390272	45389
+East Austin, Austin, TX	East Nashville, Nashville, TN	1390268	45389
+Westheimer Road, Houston, TX	Asheville, NC	1630740	53419
 North Loop, Minneapolis, MN	Wicker Park, Chicago, IL	655670	22326
-Allston-Brighton, Boston, MA	Hampden, Baltimore, MD	651702	23084
-Portland, ME	Allston-Brighton, Boston, MA	178322	6803
+Allston-Brighton, Boston, MA	Hampden, Baltimore, MD	651702	23083
+Wynwood, Miami, FL	Allston-Brighton, Boston, MA	2389747	77992
 Wicker Park, Chicago, IL	Charleston, SC	1473627	48984
-H Street Corridor, Washington, DC	Allston-Brighton, Boston, MA	695858	24965
+New Orleans, LA	Bushwick, Brooklyn, NY	2106502	70136
+H Street Corridor, Washington, DC	Allston-Brighton, Boston, MA	695858	24964
 Warehouse District, New Orleans, LALouisville, KY	Wicker Park, Chicago, IL	640285	21731
-East Nashville, Nashville, TN	Westheimer Road, Houston, TX	1286588	44440
-Wicker Park, Chicago, IL	Allston-Brighton, Boston, MA	1581217	53051
+Oklahoma City, OK	Northern Liberties, Philadelphia, PA	2229437	73888
+East Nashville, Nashville, TN	Westheimer Road, Houston, TX	1286588	44443
+Wicker Park, Chicago, IL	Allston-Brighton, Boston, MA	1581217	53050
 Asheville, NC	Bushwick, Brooklyn, NY	1117986	39021
 East Nashville, Nashville, TN	Portland, ME	1940223	64812
+Westheimer Road, Houston, TX	Portland, ME	3153991	103964
 Kansas City, MO	Williamsburg, Brooklyn, NY	1922045	65298
-H Street Corridor, Washington, DC	Providence, RI	649123	23340
+H Street Corridor, Washington, DC	Providence, RI	649123	23343
 East Austin, Austin, TX	Westheimer Road, Houston, TX	246394	8635
 Savannah, GA	Wynwood, Miami, FL	776374	24645
 North Loop, Minneapolis, MN	Bushwick, Brooklyn, NY	1946616	66570
 East Nashville, Nashville, TN	Bushwick, Brooklyn, NY	1435939	49031
-East Austin, Austin, TX	Portland, ME	3318158	109062
+East Austin, Austin, TX	Portland, ME	3318154	109062
 Kansas City, MO	North Loop, Minneapolis, MN	704136	22749
 Westheimer Road, Houston, TX	Savannah, GA	1573425	52284
-East Nashville, Nashville, TN	Charleston, SC	889117	29863
+New Orleans, LA	Hampden, Baltimore, MD	1813120	59257
+Portland, ME	New Orleans, LA	2612106	85908
 Savannah, GA	Hampden, Baltimore, MD	994711	32924
 Portland, ME	Savannah, GA	1788426	59638
-East Austin, Austin, TX	Wicker Park, Chicago, IL	1875140	60767
+East Austin, Austin, TX	Wicker Park, Chicago, IL	1875135	60767
+New Orleans, LA	Asheville, NC	1088323	35593
+East Nashville, Nashville, TN	Charleston, SC	889117	29863
 Westheimer Road, Houston, TX	Wynwood, Miami, FL	1927148	61075
 Williamsburg, Brooklyn, NY	North Loop, Minneapolis, MN	1941751	65807
-Providence, RI	Wynwood, Miami, FL	2342663	76214
-Kansas City, MO	Northern Liberties, Philadelphia, PA	1813188	60733
-Savannah, GA	Wicker Park, Chicago, IL	1543030	50966
-East Austin, Austin, TX	Asheville, NC	1853211	60755
-Little Five Points, Atlanta, GA	Providence, RI	1682737	57019
-East Austin, Austin, TX	Somerville, MA	3156713	104333
+Providence, RI	Wynwood, Miami, FL	2342663	76216
+Wicker Park, Chicago, IL	Somerville, MA	1583781	53685
+Providence, RI	Allston-Brighton, Boston, MA	87128	3536
+Savannah, GA	Wicker Park, Chicago, IL	1543030	50965
+East Austin, Austin, TX	Asheville, NC	1853207	60755
+Little Five Points, Atlanta, GA	Providence, RI	1682737	57022
+East Austin, Austin, TX	Somerville, MA	3156709	104332
 Warehouse District, New Orleans, LALouisville, KY	Savannah, GA	913811	30122
+Oklahoma City, OK	East Nashville, Nashville, TN	1098437	35974
 Westheimer Road, Houston, TX	Bushwick, Brooklyn, NY	2646907	87996
 North Loop, Minneapolis, MN	Asheville, NC	1712201	56850
 Northern Liberties, Philadelphia, PA	Hampden, Baltimore, MD	176197	6659
@@ -145,43 +174,51 @@ Little Five Points, Atlanta, GA	Warehouse District, New Orleans, LALouisville, K
 Warehouse District, New Orleans, LALouisville, KY	North Loop, Minneapolis, MN	1292700	42955
 Warehouse District, New Orleans, LALouisville, KY	Wynwood, Miami, FL	1647452	52090
 Wynwood, Miami, FL	Charleston, SC	936497	30533
-Providence, RI	Asheville, NC	1401253	47572
+Providence, RI	Asheville, NC	1401253	47574
+Oklahoma City, OK	Warehouse District, New Orleans, LALouisville, KY	1375661	44554
 East Nashville, Nashville, TN	Savannah, GA	800287	26228
-Kansas City, MO	Providence, RI	2207525	74735
-Allston-Brighton, Boston, MA	Asheville, NC	1460445	49203
+Kansas City, MO	Providence, RI	2207525	74737
+Allston-Brighton, Boston, MA	Asheville, NC	1460445	49202
 North Loop, Minneapolis, MN	Wynwood, Miami, FL	2878839	91665
 Williamsburg, Brooklyn, NY	Westheimer Road, Houston, TX	2641664	87094
-Wicker Park, Chicago, IL	Somerville, MA	1583782	53685
+Kansas City, MO	East Austin, Austin, TX	1186893	37832
 Williamsburg, Brooklyn, NY	Hampden, Baltimore, MD	322535	12047
 Warehouse District, New Orleans, LALouisville, KY	Bushwick, Brooklyn, NY	1132924	39592
 Westheimer Road, Houston, TX	North Loop, Minneapolis, MN	1911413	63426
-East Austin, Austin, TX	Warehouse District, New Orleans, LALouisville, KY	1751125	57313
+East Austin, Austin, TX	Warehouse District, New Orleans, LALouisville, KY	1751121	57312
 Charleston, SC	Northern Liberties, Philadelphia, PA	1079773	36036
-East Nashville, Nashville, TN	Providence, RI	1716554	57704
+East Nashville, Nashville, TN	Providence, RI	1716554	57707
 East Austin, Austin, TX	Charleston, SC	2020667	65810
 Little Five Points, Atlanta, GA	East Nashville, Nashville, TN	405130	13944
 Somerville, MA	Northern Liberties, Philadelphia, PA	492699	18597
 H Street Corridor, Washington, DC	Bushwick, Brooklyn, NY	370556	14492
 Little Five Points, Atlanta, GA	Somerville, MA	1736006	59348
-East Austin, Austin, TX	Hampden, Baltimore, MD	2518398	82465
-Little Five Points, Atlanta, GA	East Austin, Austin, TX	1499528	49555
+Wynwood, Miami, FL	New Orleans, LA	1384995	43318
+Oklahoma City, OK	Allston-Brighton, Boston, MA	2714328	88791
+East Austin, Austin, TX	Hampden, Baltimore, MD	2518394	82464
+Little Five Points, Atlanta, GA	East Austin, Austin, TX	1499526	49555
 Wicker Park, Chicago, IL	Hampden, Baltimore, MD	1131026	38789
 Portland, ME	Wicker Park, Chicago, IL	1745693	58527
 Williamsburg, Brooklyn, NY	Bushwick, Brooklyn, NY	4046	941
 Wynwood, Miami, FL	Asheville, NC	1264084	40061
-North Loop, Minneapolis, MN	Allston-Brighton, Boston, MA	2243789	74654
+North Loop, Minneapolis, MN	Allston-Brighton, Boston, MA	2243789	74653
 Charleston, SC	Hampden, Baltimore, MD	925788	30986
-Warehouse District, New Orleans, LALouisville, KY	Allston-Brighton, Boston, MA	1475089	49911
-Savannah, GA	Somerville, MA	1629826	55016
+Warehouse District, New Orleans, LALouisville, KY	Allston-Brighton, Boston, MA	1475089	49910
+Oklahoma City, OK	East Austin, Austin, TX	625254	20714
 Savannah, GA	Charleston, SC	171048	6857
-Providence, RI	Warehouse District, New Orleans, LALouisville, KY	1415897	48280
+Oklahoma City, OK	Asheville, NC	1563095	51367
+East Austin, Austin, TX	New Orleans, LA	818364	27615
+Providence, RI	Warehouse District, New Orleans, LALouisville, KY	1415897	48282
+New Orleans, LA	Northern Liberties, Philadelphia, PA	1968319	64443
 Northern Liberties, Philadelphia, PA	Asheville, NC	981135	33215
 Providence, RI	Portland, ME	262067	9384
-Kansas City, MO	Charleston, SC	1773982	58029
+Savannah, GA	Somerville, MA	1629826	55016
 Little Five Points, Atlanta, GA	Portland, ME	1893948	64120
 Little Five Points, Atlanta, GA	Hampden, Baltimore, MD	1100891	37257
 Kansas City, MO	Somerville, MA	2299713	76267
 East Nashville, Nashville, TN	Somerville, MA	1777026	59855
+Kansas City, MO	Northern Liberties, Philadelphia, PA	1813188	60733
+Oklahoma City, OK	Providence, RI	2623775	87892
 H Street Corridor, Washington, DC	North Loop, Minneapolis, MN	1801311	60607
 Little Five Points, Atlanta, GA	Charleston, SC	493668	16819
 Kansas City, MO	Little Five Points, Atlanta, GA	1288153	42052
@@ -189,23 +226,29 @@ Warehouse District, New Orleans, LALouisville, KY	Somerville, MA	1477068	50461
 East Nashville, Nashville, TN	Wicker Park, Chicago, IL	762676	25825
 H Street Corridor, Washington, DC	Warehouse District, New Orleans, LALouisville, KY	860073	29368
 Williamsburg, Brooklyn, NY	Asheville, NC	1112743	38119
+North Loop, Minneapolis, MN	New Orleans, LA	1967668	64296
+Oklahoma City, OK	Savannah, GA	1763221	57250
 Allston-Brighton, Boston, MA	Somerville, MA	6278	1172
 Portland, ME	Northern Liberties, Philadelphia, PA	653115	23373
-Williamsburg, Brooklyn, NY	Portland, ME	501853	18226
-East Austin, Austin, TX	Allston-Brighton, Boston, MA	3153681	103586
+Williamsburg, Brooklyn, NY	Portland, ME	503642	18235
+East Austin, Austin, TX	Allston-Brighton, Boston, MA	3153678	103584
 Kansas City, MO	Asheville, NC	1360140	44671
 Savannah, GA	Bushwick, Brooklyn, NY	1299872	43935
-East Austin, Austin, TX	Northern Liberties, Philadelphia, PA	2674371	87598
+East Austin, Austin, TX	Northern Liberties, Philadelphia, PA	2674367	87597
 Somerville, MA	Charleston, SC	1560903	53077
 Warehouse District, New Orleans, LALouisville, KY	Charleston, SC	844408	28141
+Portland, ME	Asheville, NC	1624922	54680
 Wynwood, Miami, FL	Northern Liberties, Philadelphia, PA	1912434	61674
-East Austin, Austin, TX	Providence, RI	3094489	101955
+East Austin, Austin, TX	Providence, RI	3094485	101956
 East Nashville, Nashville, TN	Northern Liberties, Philadelphia, PA	1296436	43347
 H Street Corridor, Washington, DC	Westheimer Road, Houston, TX	2293594	75097
-Williamsburg, Brooklyn, NY	Allston-Brighton, Boston, MA	337376	12749
+Portland, ME	Allston-Brighton, Boston, MA	178322	6803
+Williamsburg, Brooklyn, NY	Allston-Brighton, Boston, MA	339165	12757
+Oklahoma City, OK	Portland, ME	2878804	94269
+Providence, RI	New Orleans, LA	2388437	78803
 H Street Corridor, Washington, DC	Wynwood, Miami, FL	1690602	53857
 Providence, RI	Wicker Park, Chicago, IL	1563219	52826
 Williamsburg, Brooklyn, NY	Charleston, SC	1227739	41209
 Little Five Points, Atlanta, GA	Savannah, GA	396716	13084
 Little Five Points, Atlanta, GA	Wynwood, Miami, FL	1059057	33396
-Kansas City, MO	Savannah, GA	1685151	54394
+New Orleans, LA	Somerville, MA	2450647	81005

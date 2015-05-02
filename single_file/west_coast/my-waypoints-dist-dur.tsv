@@ -1,56 +1,121 @@
 waypoint1	waypoint2	distance_m	duration_s
-Silver Lake, Los Angeles, CA	The Uptown, Oakland, CA	595347	19460
-Los Feliz, Los Angeles, CA	Alberta, Portland, OR	1549523	51803
+Los Feliz, Los Angeles, CA	Alberta, Portland, OR	1549523	51828
+Healdsburg, CA	Ashland, OR	535097	20535
 The Uptown, Oakland, CA	Downtown, Portland, OR	1013297	34748
-North Park, San Diego, CA	The Uptown, Oakland, CA	789952	26572
-Pearl District, Portland, OR	Los Feliz, Los Angeles, CA	1544919	51482
-The Uptown, Oakland, CA	Arts District, Los Angeles, CA	600265	19868
-Alberta, Portland, OR	The Mission, San Francisco, CA	1028140	35562
-Highland Park, Los Angeles, CA	Venice Beach, CA	36559	2234
-The Uptown, Oakland, CA	Los Feliz, Los Angeles, CA	593208	19461
-Downtown, Portland, OR	Alberta, Portland, OR	5590	849
-Los Feliz, Los Angeles, CA	Downtown, Portland, OR	1544623	51559
-Venice Beach, CA	Arts District, Los Angeles, CA	28908	1926
-Venice Beach, CA	Los Feliz, Los Angeles, CA	37766	2471
-Pearl District, Portland, OR	Arts District, Los Angeles, CA	1551976	51889
-Alberta, Portland, OR	Arts District, Los Angeles, CA	1556580	52210
-Silver Lake, Los Angeles, CA	The Mission, San Francisco, CA	610153	20383
-Downtown, Portland, OR	The Mission, San Francisco, CA	1023240	35317
-North Park, San Diego, CA	Downtown, Portland, OR	1741367	58670
-Silver Lake, Los Angeles, CA	North Park, San Diego, CA	196832	7445
-Pearl District, Portland, OR	The Mission, San Francisco, CA	1023536	35240
-Silver Lake, Los Angeles, CA	Downtown, Portland, OR	1546762	51558
+Pearl District, Portland, OR	Los Feliz, Los Angeles, CA	1544919	51506
+Capitol Hill, Seattle, WA	The Uptown, Oakland, CA	1291506	44376
+Healdsburg, CA	Alberta, Portland, OR	999665	36622
+The Uptown, Oakland, CA	Arts District, Los Angeles, CA	600265	19892
+Bend, OR	Ashland, OR	298866	12938
+Ashland, OR	Alberta, Portland, OR	465483	16676
+Healdsburg, CA	Downtown, Portland, OR	995245	36214
 Silver Lake, Los Angeles, CA	Venice Beach, CA	32010	2100
-North Park, San Diego, CA	The Mission, San Francisco, CA	804349	27247
-Venice Beach, CA	The Uptown, Oakland, CA	602974	20225
-North Park, San Diego, CA	Alberta, Portland, OR	1746267	58914
-Silver Lake, Los Angeles, CA	Alberta, Portland, OR	1551663	51802
-The Uptown, Oakland, CA	Alberta, Portland, OR	1017433	34977
-Highland Park, Los Angeles, CA	Silver Lake, Los Angeles, CA	13371	945
+Ashland, OR	The Uptown, Oakland, CA	552239	19108
+Venice Beach, CA	Yountville, CA	663168	22514
+Venice Beach, CA	Bend, OR	1322174	45558
+Pearl District, Portland, OR	The Mission, San Francisco, CA	1023536	35240
+Silver Lake, Los Angeles, CA	Downtown, Portland, OR	1546762	51582
+Yountville, CA	Alberta, Portland, OR	996913	34394
+Healdsburg, CA	Bend, OR	763030	29425
+Capitol Hill, Seattle, WA	Los Feliz, Los Angeles, CA	1823404	61220
+Bend, OR	Los Feliz, Los Angeles, CA	1312408	44794
 Los Feliz, Los Angeles, CA	Arts District, Los Angeles, CA	15208	1131
-Venice Beach, CA	Alberta, Portland, OR	1559289	52567
-Highland Park, Los Angeles, CA	Pearl District, Portland, OR	1551879	51733
-Venice Beach, CA	Downtown, Portland, OR	1554389	52323
+Highland Park, Los Angeles, CA	Pearl District, Portland, OR	1551879	51757
 Silver Lake, Los Angeles, CA	Los Feliz, Los Angeles, CA	3134	487
-The Mission, San Francisco, CA	Arts District, Los Angeles, CA	615071	20790
-Los Feliz, Los Angeles, CA	The Mission, San Francisco, CA	608014	20384
+The Mission, San Francisco, CA	Arts District, Los Angeles, CA	615071	20815
+Ashland, OR	The Mission, San Francisco, CA	563092	19638
+North Park, San Diego, CA	Ashland, OR	1281219	43015
+Healdsburg, CA	The Mission, San Francisco, CA	113425	5148
+Highland Park, Los Angeles, CA	Arts District, Los Angeles, CA	12512	886
+Healdsburg, CA	Arts District, Los Angeles, CA	713251	23924
+Capitol Hill, Seattle, WA	Ashland, OR	739556	26076
+Highland Park, Los Angeles, CA	Downtown, Portland, OR	1551583	51834
+Yountville, CA	Arts District, Los Angeles, CA	660459	22156
+Bend, OR	The Uptown, Oakland, CA	780267	28066
+Highland Park, Los Angeles, CA	Silver Lake, Los Angeles, CA	13371	945
+Silver Lake, Los Angeles, CA	The Uptown, Oakland, CA	595347	19484
+Venice Beach, CA	Arts District, Los Angeles, CA	28908	1926
+Alberta, Portland, OR	The Mission, San Francisco, CA	1028140	35562
+Capitol Hill, Seattle, WA	Silver Lake, Los Angeles, CA	1825944	61336
+Silver Lake, Los Angeles, CA	Ashland, OR	1086615	35903
+Silver Lake, Los Angeles, CA	Healdsburg, CA	708334	23516
+Los Feliz, Los Angeles, CA	Downtown, Portland, OR	1544623	51583
+Capitol Hill, Seattle, WA	North Park, San Diego, CA	2019942	68266
+Pearl District, Portland, OR	Arts District, Los Angeles, CA	1551976	51913
+Alberta, Portland, OR	Arts District, Los Angeles, CA	1556580	52234
+Silver Lake, Los Angeles, CA	The Mission, San Francisco, CA	610153	20407
+Capitol Hill, Seattle, WA	Venice Beach, CA	1832523	61863
+Ashland, OR	Yountville, CA	532423	18386
+Healdsburg, CA	Pearl District, Portland, OR	996001	36356
+Silver Lake, Los Angeles, CA	North Park, San Diego, CA	196832	7445
+Ashland, OR	Los Feliz, Los Angeles, CA	1084475	35904
+North Park, San Diego, CA	Bend, OR	1509152	51905
+The Uptown, Oakland, CA	The Mission, San Francisco, CA	16743	1296
+Venice Beach, CA	Pearl District, Portland, OR	1554685	52270
+Venice Beach, CA	Alberta, Portland, OR	1559289	52592
+Capitol Hill, Seattle, WA	The Mission, San Francisco, CA	1301655	45110
+Ashland, OR	Downtown, Portland, OR	460286	16230
+Highland Park, Los Angeles, CA	Bend, OR	1319368	45045
+Highland Park, Los Angeles, CA	The Uptown, Oakland, CA	600168	19736
+Downtown, Portland, OR	Arts District, Los Angeles, CA	1551680	51990
+Capitol Hill, Seattle, WA	Healdsburg, CA	1273738	46021
+Pearl District, Portland, OR	Alberta, Portland, OR	4903	684
+Bend, OR	Yountville, CA	760356	27276
+Silver Lake, Los Angeles, CA	Yountville, CA	655541	21749
+Highland Park, Los Angeles, CA	Ashland, OR	1091436	36155
+North Park, San Diego, CA	Pearl District, Portland, OR	1741663	58617
+Venice Beach, CA	Downtown, Portland, OR	1554389	52347
+Healdsburg, CA	Los Feliz, Los Angeles, CA	706195	23517
+Ashland, OR	Pearl District, Portland, OR	461819	16411
+Bend, OR	Alberta, Portland, OR	258830	11751
+The Uptown, Oakland, CA	Los Feliz, Los Angeles, CA	593208	19485
+Capitol Hill, Seattle, WA	Pearl District, Portland, OR	280050	10047
+Downtown, Portland, OR	Alberta, Portland, OR	5590	849
+Bend, OR	The Mission, San Francisco, CA	791025	28528
+Venice Beach, CA	Los Feliz, Los Angeles, CA	37767	2471
+Yountville, CA	The Mission, San Francisco, CA	90144	4330
+Downtown, Portland, OR	The Mission, San Francisco, CA	1023240	35317
+North Park, San Diego, CA	Downtown, Portland, OR	1741367	58694
+Healdsburg, CA	Yountville, CA	69840	3760
+Capitol Hill, Seattle, WA	Downtown, Portland, OR	280737	10212
+Ashland, OR	Arts District, Los Angeles, CA	1091532	36311
+Yountville, CA	The Uptown, Oakland, CA	80751	3642
+Bend, OR	Arts District, Los Angeles, CA	1319465	45201
+Los Feliz, Los Angeles, CA	The Mission, San Francisco, CA	608014	20408
+Silver Lake, Los Angeles, CA	Bend, OR	1314547	44793
 Silver Lake, Los Angeles, CA	Arts District, Los Angeles, CA	8002	743
 North Park, San Diego, CA	Los Feliz, Los Angeles, CA	200760	7735
-Downtown, Portland, OR	Arts District, Los Angeles, CA	1551680	51966
-Venice Beach, CA	North Park, San Diego, CA	207996	7900
-Pearl District, Portland, OR	Alberta, Portland, OR	4903	684
-The Uptown, Oakland, CA	The Mission, San Francisco, CA	16743	1296
-North Park, San Diego, CA	Pearl District, Portland, OR	1741663	58593
-Highland Park, Los Angeles, CA	Arts District, Los Angeles, CA	12512	886
-Highland Park, Los Angeles, CA	North Park, San Diego, CA	198949	7493
+Highland Park, Los Angeles, CA	Venice Beach, CA	36559	2234
+Bend, OR	Pearl District, Portland, OR	262120	11561
 Highland Park, Los Angeles, CA	Los Feliz, Los Angeles, CA	14875	1052
 Pearl District, Portland, OR	The Uptown, Oakland, CA	1013769	34712
-Silver Lake, Los Angeles, CA	Pearl District, Portland, OR	1547058	51481
-Highland Park, Los Angeles, CA	Downtown, Portland, OR	1551583	51810
+Venice Beach, CA	Ashland, OR	1094241	36668
 Pearl District, Portland, OR	Downtown, Portland, OR	1238	268
 Venice Beach, CA	The Mission, San Francisco, CA	616930	20844
-Highland Park, Los Angeles, CA	Alberta, Portland, OR	1556484	52054
-Highland Park, Los Angeles, CA	The Mission, San Francisco, CA	614974	20635
+Highland Park, Los Angeles, CA	North Park, San Diego, CA	198949	7493
+Yountville, CA	Los Feliz, Los Angeles, CA	653402	21750
 North Park, San Diego, CA	Arts District, Los Angeles, CA	189790	7024
-Venice Beach, CA	Pearl District, Portland, OR	1554685	52246
-Highland Park, Los Angeles, CA	The Uptown, Oakland, CA	600168	19712
+North Park, San Diego, CA	Yountville, CA	850146	28860
+Silver Lake, Los Angeles, CA	Alberta, Portland, OR	1551663	51827
+Healdsburg, CA	The Uptown, Oakland, CA	116625	4490
+Capitol Hill, Seattle, WA	Arts District, Los Angeles, CA	1834391	61662
+Yountville, CA	Downtown, Portland, OR	992571	34065
+Capitol Hill, Seattle, WA	Bend, OR	530030	20719
+Capitol Hill, Seattle, WA	Yountville, CA	1270985	43794
+Bend, OR	Downtown, Portland, OR	263538	11607
+Highland Park, Los Angeles, CA	Healdsburg, CA	713155	23768
+Capitol Hill, Seattle, WA	Highland Park, Los Angeles, CA	1830371	61438
+North Park, San Diego, CA	The Mission, San Francisco, CA	804349	27247
+Venice Beach, CA	The Uptown, Oakland, CA	602974	20249
+Venice Beach, CA	North Park, San Diego, CA	207996	7900
+North Park, San Diego, CA	Alberta, Portland, OR	1746267	58938
+Venice Beach, CA	Healdsburg, CA	715960	24281
+The Uptown, Oakland, CA	Alberta, Portland, OR	1017433	34977
+Pearl District, Portland, OR	Yountville, CA	993249	34129
+Capitol Hill, Seattle, WA	Alberta, Portland, OR	277788	10071
+North Park, San Diego, CA	The Uptown, Oakland, CA	789952	26596
+Highland Park, Los Angeles, CA	Yountville, CA	660362	22001
+Silver Lake, Los Angeles, CA	Pearl District, Portland, OR	1547058	51505
+Healdsburg, CA	North Park, San Diego, CA	902938	30628
+Highland Park, Los Angeles, CA	Alberta, Portland, OR	1556484	52079
+Highland Park, Los Angeles, CA	The Mission, San Francisco, CA	614974	20659
