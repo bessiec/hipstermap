@@ -1,0 +1,596 @@
+waypoint1	waypoint2	distance_m	duration_s
+Los Feliz, Los Angeles, CA	Alberta, Portland, OR	1549525	51077
+North Park, San Diego, CA	Somerville, MA	4824756	156660
+H Street Corridor, Washington, DC	Savannah, GA	926863	30118
+East Nashville, Nashville, TN	Los Feliz, Los Angeles, CA	3234958	102152
+The Uptown, Oakland, CA	Portland, ME	5136789	165028
+Little Five Points, Atlanta, GA	Downtown, Portland, OR	4174958	134321
+Warehouse District, New Orleans, LALouisville, KY	Alberta, Portland, OR	3855700	124286
+East Nashville, Nashville, TN	Alberta, Portland, OR	3775182	121454
+Boulder, CO	Westheimer Road, Houston, TX	1704655	56578
+Pearl District, Portland, OR	Somerville, MA	4968598	161796
+Pearl District, Portland, OR	Asheville, NC	4248135	136917
+Wicker Park, Chicago, IL	Asheville, NC	1056279	35270
+Westheimer Road, Houston, TX	Northern Liberties, Philadelphia, PA	2500235	81480
+East Nashville, Nashville, TN	Hampden, Baltimore, MD	1134761	37384
+Charleston, SC	Arts District, Los Angeles, CA	3977414	126826
+Pearl District, Portland, OR	The Mission, San Francisco, CA	1023535	34618
+Silver Lake, Los Angeles, CA	Downtown, Portland, OR	1545681	50825
+Williamsburg, Brooklyn, NY	Wynwood, Miami, FL	2056962	66898
+H Street Corridor, Washington, DC	Williamsburg, Brooklyn, NY	363908	13475
+Williamsburg, Brooklyn, NY	Arts District, Los Angeles, CA	4475195	144380
+North Loop, Minneapolis, MN	Hampden, Baltimore, MD	1793379	60210
+Kansas City, MO	Los Feliz, Los Angeles, CA	2606450	82226
+Capitol Hill, Seattle, WA	H Street Corridor, Washington, DC	4452067	145078
+Portland, ME	Somerville, MA	177483	6448
+The Mission, San Francisco, CA	Arts District, Los Angeles, CA	615072	20432
+Little Five Points, Atlanta, GA	H Street Corridor, Washington, DC	1030932	34186
+Silver Lake, Los Angeles, CA	East Nashville, Nashville, TN	3232585	102029
+Little Five Points, Atlanta, GA	Wicker Park, Chicago, IL	1158601	38704
+Wynwood, Miami, FL	Somerville, MA	2393564	79044
+Williamsburg, Brooklyn, NY	Westheimer Road, Houston, TX	2633465	85838
+Capitol Hill, Seattle, WA	Wynwood, Miami, FL	5357955	170979
+Wynwood, Miami, FL	Downtown, Portland, OR	5234473	167160
+East Austin, Austin, TX	The Mission, San Francisco, CA	2835160	89810
+Little Five Points, Atlanta, GA	Westheimer Road, Houston, TX	1293761	41391
+Silver Lake, Los Angeles, CA	East Austin, Austin, TX	2228292	70447
+Capitol Hill, Seattle, WA	Portland, ME	5071439	164996
+Williamsburg, Brooklyn, NY	Hampden, Baltimore, MD	318953	11695
+Silver Lake, Los Angeles, CA	The Uptown, Oakland, CA	595349	19288
+Warehouse District, New Orleans, LALouisville, KY	Wicker Park, Chicago, IL	636778	21637
+Little Five Points, Atlanta, GA	Bushwick, Brooklyn, NY	1402919	47911
+Portland, ME	Bushwick, Brooklyn, NY	503393	18320
+Westheimer Road, Houston, TX	LoHi, Denver, CO	1662308	54859
+Silver Lake, Los Angeles, CA	Hampden, Baltimore, MD	4256170	137082
+Bushwick, Brooklyn, NY	Arts District, Los Angeles, CA	4478926	144869
+Highland Park, Los Angeles, CA	Venice Beach, CA	36559	2023
+The Uptown, Oakland, CA	Charleston, SC	4443146	141720
+East Austin, Austin, TX	Williamsburg, Brooklyn, NY	2809004	91518
+Little Five Points, Atlanta, GA	The Mission, San Francisco, CA	3984571	126546
+Pearl District, Portland, OR	Arts District, Los Angeles, CA	1551978	51087
+Boulder, CO	Warehouse District, New Orleans, LALouisville, KY	1970271	62553
+Portland, ME	Los Feliz, Los Angeles, CA	4964412	159826
+Silver Lake, Los Angeles, CA	The Mission, San Francisco, CA	610154	20134
+Charleston, SC	Asheville, NC	430943	14177
+Kansas City, MO	North Park, San Diego, CA	2505520	83642
+Venice Beach, CA	LoHi, Denver, CO	1664178	54262
+Kansas City, MO	Wynwood, Miami, FL	2347492	74716
+Asheville, NC	Hampden, Baltimore, MD	823498	27808
+Boulder, CO	Asheville, NC	2359309	75188
+Venice Beach, CA	The Mission, San Francisco, CA	616929	20577
+The Uptown, Oakland, CA	The Mission, San Francisco, CA	16742	1103
+East Austin, Austin, TX	Arts District, Los Angeles, CA	2221949	70155
+Capitol Hill, Seattle, WA	North Park, San Diego, CA	2019993	67649
+Hampden, Baltimore, MD	The Mission, San Francisco, CA	4531905	145533
+Providence, RI	Hampden, Baltimore, MD	604967	21622
+Westheimer Road, Houston, TX	Wicker Park, Chicago, IL	1759147	58778
+East Austin, Austin, TX	Charleston, SC	1960935	64760
+Asheville, NC	The Mission, San Francisco, CA	4177695	133112
+Westheimer Road, Houston, TX	Portland, ME	3146250	103087
+Silver Lake, Los Angeles, CA	Kansas City, MO	2604077	82103
+Kansas City, MO	LoHi, Denver, CO	969242	29949
+Savannah, GA	Charleston, SC	171047	6609
+Los Feliz, Los Angeles, CA	Somerville, MA	4803111	154825
+The Uptown, Oakland, CA	Northern Liberties, Philadelphia, PA	4619811	147908
+LoHi, Denver, CO	North Loop, Minneapolis, MN	1470453	46135
+Capitol Hill, Seattle, WA	Williamsburg, Brooklyn, NY	4595222	149746
+North Park, San Diego, CA	Pearl District, Portland, OR	1741665	57914
+Venice Beach, CA	Downtown, Portland, OR	1552969	51500
+Kansas City, MO	Downtown, Portland, OR	2887946	92614
+Venice Beach, CA	Savannah, GA	3923617	124686
+East Nashville, Nashville, TN	Portland, ME	1936588	64331
+Highland Park, Los Angeles, CA	North Loop, Minneapolis, MN	3093477	97710
+The Uptown, Oakland, CA	Los Feliz, Los Angeles, CA	593209	19267
+Silver Lake, Los Angeles, CA	Warehouse District, New Orleans, LALouisville, KY	3515851	110879
+The Uptown, Oakland, CA	LoHi, Denver, CO	2001273	64333
+Venice Beach, CA	Los Feliz, Los Angeles, CA	30013	2117
+East Austin, Austin, TX	Westheimer Road, Houston, TX	254197	8658
+East Austin, Austin, TX	Portland, ME	3318158	108650
+Highland Park, Los Angeles, CA	Silver Lake, Los Angeles, CA	15077	842
+North Park, San Diego, CA	Providence, RI	4731646	155149
+The Uptown, Oakland, CA	Somerville, MA	4975669	161167
+East Nashville, Nashville, TN	Westheimer Road, Houston, TX	1269567	42654
+Venice Beach, CA	East Nashville, Nashville, TN	3258404	103503
+Capitol Hill, Seattle, WA	Savannah, GA	4695354	150567
+Wicker Park, Chicago, IL	Downtown, Portland, OR	3410194	109959
+East Austin, Austin, TX	Wicker Park, Chicago, IL	1808012	60522
+Warehouse District, New Orleans, LALouisville, KY	Williamsburg, Brooklyn, NY	1127680	38097
+Providence, RI	Arts District, Los Angeles, CA	4777649	153820
+Westheimer Road, Houston, TX	Arts District, Los Angeles, CA	2479239	77240
+Portland, ME	Downtown, Portland, OR	5128452	165884
+Hampden, Baltimore, MD	Downtown, Portland, OR	4513566	145779
+Little Five Points, Atlanta, GA	Providence, RI	1682560	57252
+Portland, ME	Northern Liberties, Philadelphia, PA	654994	23525
+Little Five Points, Atlanta, GA	Williamsburg, Brooklyn, NY	1396546	47325
+Portland, ME	Wynwood, Miami, FL	2555790	83861
+Venice Beach, CA	Hampden, Baltimore, MD	4281989	138556
+Los Feliz, Los Angeles, CA	Bushwick, Brooklyn, NY	4483214	145070
+Allston-Brighton, Boston, MA	Asheville, NC	1459787	49214
+North Loop, Minneapolis, MN	Wynwood, Miami, FL	2878839	92160
+Venice Beach, CA	H Street Corridor, Washington, DC	4330313	138327
+Los Feliz, Los Angeles, CA	Wynwood, Miami, FL	4399070	137982
+Pearl District, Portland, OR	Downtown, Portland, OR	1238	174
+Providence, RI	Pearl District, Portland, OR	4946992	160111
+Little Five Points, Atlanta, GA	Alberta, Portland, OR	4172681	134462
+Portland, ME	Alberta, Portland, OR	5126176	166025
+Boulder, CO	Alberta, Portland, OR	1962485	65293
+Silver Lake, Los Angeles, CA	LoHi, Denver, CO	1638359	52788
+Pearl District, Portland, OR	Northern Liberties, Philadelphia, PA	4612487	148796
+Little Five Points, Atlanta, GA	East Austin, Austin, TX	1487650	48784
+Westheimer Road, Houston, TX	The Mission, San Francisco, CA	3092450	96895
+Capitol Hill, Seattle, WA	Silver Lake, Los Angeles, CA	1825388	60525
+Wicker Park, Chicago, IL	Hampden, Baltimore, MD	1130761	38286
+Somerville, MA	Arts District, Los Angeles, CA	4798822	154624
+Highland Park, Los Angeles, CA	North Park, San Diego, CA	198948	7505
+Northern Liberties, Philadelphia, PA	Downtown, Portland, OR	4611473	148764
+Capitol Hill, Seattle, WA	Arts District, Los Angeles, CA	1830306	60822
+The Uptown, Oakland, CA	Wynwood, Miami, FL	4865884	155214
+Providence, RI	Portland, ME	251222	9332
+Kansas City, MO	Charleston, SC	1773982	57702
+Highland Park, Los Angeles, CA	Capitol Hill, Seattle, WA	1830209	60749
+Silver Lake, Los Angeles, CA	Los Feliz, Los Angeles, CA	3845	384
+Silver Lake, Los Angeles, CA	Little Five Points, Atlanta, GA	3506044	110928
+North Park, San Diego, CA	Alberta, Portland, OR	1746269	58223
+Warehouse District, New Orleans, LALouisville, KY	Asheville, NC	430566	14557
+LoHi, Denver, CO	Alberta, Portland, OR	1990660	65330
+Wynwood, Miami, FL	Asheville, NC	1264084	40009
+Kansas City, MO	Somerville, MA	2278233	76214
+Williamsburg, Brooklyn, NY	Portland, ME	501853	18138
+East Austin, Austin, TX	Northern Liberties, Philadelphia, PA	2674296	87057
+Silver Lake, Los Angeles, CA	Savannah, GA	3897798	123213
+Capitol Hill, Seattle, WA	North Loop, Minneapolis, MN	2666463	84911
+East Austin, Austin, TX	Boulder, CO	1521239	51012
+Venice Beach, CA	Warehouse District, New Orleans, LALouisville, KY	3541670	112353
+North Park, San Diego, CA	The Uptown, Oakland, CA	789953	26413
+Boulder, CO	LoHi, Denver, CO	43130	1975
+Highland Park, Los Angeles, CA	Savannah, GA	3887858	122855
+Kansas City, MO	Allston-Brighton, Boston, MA	2298141	75868
+Silver Lake, Los Angeles, CA	Williamsburg, Brooklyn, NY	4477110	144458
+North Park, San Diego, CA	Asheville, NC	3721525	117393
+East Nashville, Nashville, TN	Williamsburg, Brooklyn, NY	1427435	47198
+Capitol Hill, Seattle, WA	The Uptown, Oakland, CA	1290951	43950
+Williamsburg, Brooklyn, NY	Pearl District, Portland, OR	4662949	150909
+The Uptown, Oakland, CA	Arts District, Los Angeles, CA	600266	19586
+Asheville, NC	Arts District, Los Angeles, CA	3697253	117416
+North Park, San Diego, CA	Savannah, GA	3838062	119488
+Pearl District, Portland, OR	North Loop, Minneapolis, MN	2780904	89317
+Westheimer Road, Houston, TX	Downtown, Portland, OR	3536296	119534
+Silver Lake, Los Angeles, CA	Venice Beach, CA	32010	1781
+Charleston, SC	Bushwick, Brooklyn, NY	1228347	41630
+Kansas City, MO	East Nashville, Nashville, TN	890477	28869
+Williamsburg, Brooklyn, NY	Northern Liberties, Philadelphia, PA	156098	6279
+Kansas City, MO	Providence, RI	2208144	74841
+H Street Corridor, Washington, DC	East Nashville, Nashville, TN	1076968	35272
+Savannah, GA	Alberta, Portland, OR	4569595	146889
+Westheimer Road, Houston, TX	Allston-Brighton, Boston, MA	2979155	97516
+Pearl District, Portland, OR	Wicker Park, Chicago, IL	3410497	109995
+North Park, San Diego, CA	East Nashville, Nashville, TN	3254942	101928
+Wicker Park, Chicago, IL	Bushwick, Brooklyn, NY	1282861	43873
+Silver Lake, Los Angeles, CA	H Street Corridor, Washington, DC	4304494	136854
+North Park, San Diego, CA	Charleston, SC	3919593	123179
+Little Five Points, Atlanta, GA	Warehouse District, New Orleans, LALouisville, KY	587631	19268
+East Nashville, Nashville, TN	The Uptown, Oakland, CA	3692662	117400
+Los Feliz, Los Angeles, CA	Arts District, Los Angeles, CA	11065	852
+Warehouse District, New Orleans, LALouisville, KY	Arts District, Los Angeles, CA	3513936	110801
+Little Five Points, Atlanta, GA	North Loop, Minneapolis, MN	1819324	59321
+H Street Corridor, Washington, DC	Charleston, SC	857941	28057
+Portland, ME	North Loop, Minneapolis, MN	2408265	80315
+H Street Corridor, Washington, DC	LoHi, Denver, CO	2675412	87581
+H Street Corridor, Washington, DC	Hampden, Baltimore, MD	65396	3226
+Providence, RI	Savannah, GA	1577214	52879
+Kansas City, MO	Bushwick, Brooklyn, NY	1925771	65369
+Highland Park, Los Angeles, CA	LoHi, Denver, CO	1628419	52431
+Capitol Hill, Seattle, WA	Asheville, NC	4370604	140705
+H Street Corridor, Washington, DC	Wicker Park, Chicago, IL	1138693	38558
+Savannah, GA	Asheville, NC	498607	16158
+Highland Park, Los Angeles, CA	Arts District, Los Angeles, CA	12512	778
+Kansas City, MO	Little Five Points, Atlanta, GA	1287977	41877
+Warehouse District, New Orleans, LALouisville, KY	Somerville, MA	1477068	50276
+Boulder, CO	Charleston, SC	2773150	88448
+Los Feliz, Los Angeles, CA	Asheville, NC	3701541	117617
+Williamsburg, Brooklyn, NY	The Uptown, Oakland, CA	4671214	151024
+East Austin, Austin, TX	North Loop, Minneapolis, MN	1889333	59767
+Boulder, CO	Allston-Brighton, Boston, MA	3188557	102836
+Silver Lake, Los Angeles, CA	Portland, ME	4962038	159703
+Venice Beach, CA	Little Five Points, Atlanta, GA	3531863	112401
+Venice Beach, CA	Boulder, CO	1682745	55321
+East Austin, Austin, TX	Warehouse District, New Orleans, LALouisville, KY	1751125	56815
+H Street Corridor, Washington, DC	Boulder, CO	2707514	88806
+Boulder, CO	Williamsburg, Brooklyn, NY	2889958	93611
+Highland Park, Los Angeles, CA	Warehouse District, New Orleans, LALouisville, KY	3505911	110522
+Savannah, GA	Allston-Brighton, Boston, MA	1625927	54629
+East Austin, Austin, TX	Bushwick, Brooklyn, NY	2812736	92007
+Little Five Points, Atlanta, GA	Asheville, NC	335883	11945
+North Loop, Minneapolis, MN	Northern Liberties, Philadelphia, PA	1891286	63195
+Boulder, CO	Somerville, MA	3194413	103755
+LoHi, Denver, CO	Wynwood, Miami, FL	3314233	104167
+Williamsburg, Brooklyn, NY	Downtown, Portland, OR	4661935	150877
+H Street Corridor, Washington, DC	Somerville, MA	700510	25621
+East Austin, Austin, TX	Wynwood, Miami, FL	2165100	68855
+Venice Beach, CA	Alberta, Portland, OR	1558953	51773
+Los Feliz, Los Angeles, CA	Charleston, SC	3981702	127027
+Silver Lake, Los Angeles, CA	North Loop, Minneapolis, MN	3103417	98068
+Highland Park, Los Angeles, CA	The Uptown, Oakland, CA	600170	19512
+Highland Park, Los Angeles, CA	Providence, RI	4769624	153541
+LoHi, Denver, CO	Wicker Park, Chicago, IL	1610861	51097
+Bushwick, Brooklyn, NY	Downtown, Portland, OR	4665667	151366
+Providence, RI	Bushwick, Brooklyn, NY	290267	11086
+Providence, RI	The Mission, San Francisco, CA	4964317	159833
+Savannah, GA	Los Feliz, Los Angeles, CA	3900171	123336
+Capitol Hill, Seattle, WA	Allston-Brighton, Boston, MA	4907025	159512
+Allston-Brighton, Boston, MA	Hampden, Baltimore, MD	653680	23372
+LoHi, Denver, CO	Charleston, SC	2740723	87154
+Kansas City, MO	The Uptown, Oakland, CA	2896279	92826
+Venice Beach, CA	Asheville, NC	3724987	118968
+H Street Corridor, Washington, DC	Allston-Brighton, Boston, MA	697836	25224
+East Nashville, Nashville, TN	Downtown, Portland, OR	3777458	121313
+North Park, San Diego, CA	Allston-Brighton, Boston, MA	4821643	156176
+Allston-Brighton, Boston, MA	The Mission, San Francisco, CA	4982377	160153
+The Uptown, Oakland, CA	Wicker Park, Chicago, IL	3417568	109367
+Providence, RI	Charleston, SC	1508826	51101
+Kansas City, MO	Savannah, GA	1684890	54305
+North Park, San Diego, CA	Downtown, Portland, OR	1740286	57950
+Los Feliz, Los Angeles, CA	Northern Liberties, Philadelphia, PA	4370630	140413
+Westheimer Road, Houston, TX	Savannah, GA	1565357	51379
+LoHi, Denver, CO	Downtown, Portland, OR	1992936	65189
+Portland, ME	Savannah, GA	1790340	60113
+East Austin, Austin, TX	LoHi, Denver, CO	1478687	49303
+East Nashville, Nashville, TN	Charleston, SC	885483	29172
+Williamsburg, Brooklyn, NY	North Loop, Minneapolis, MN	1941749	65308
+Boulder, CO	Wynwood, Miami, FL	3346660	105461
+Savannah, GA	Wicker Park, Chicago, IL	1539522	50630
+East Austin, Austin, TX	Somerville, MA	3156857	103650
+Kansas City, MO	Hampden, Baltimore, MD	1701100	57504
+H Street Corridor, Washington, DC	Alberta, Portland, OR	4519222	146192
+North Loop, Minneapolis, MN	Asheville, NC	1712201	56844
+Wynwood, Miami, FL	Allston-Brighton, Boston, MA	2389866	78542
+LoHi, Denver, CO	Los Feliz, Los Angeles, CA	1640732	52911
+Warehouse District, New Orleans, LALouisville, KY	The Mission, San Francisco, CA	3876316	123899
+North Park, San Diego, CA	Los Feliz, Los Angeles, CA	199894	7681
+Venice Beach, CA	Portland, ME	4987858	161176
+North Loop, Minneapolis, MN	The Mission, San Francisco, CA	3161505	103121
+East Nashville, Nashville, TN	Savannah, GA	796391	25775
+Silver Lake, Los Angeles, CA	Boulder, CO	1656926	53847
+H Street Corridor, Washington, DC	Los Feliz, Los Angeles, CA	4306867	136977
+Westheimer Road, Houston, TX	Los Feliz, Los Angeles, CA	2488167	77785
+East Austin, Austin, TX	Providence, RI	3095108	101479
+H Street Corridor, Washington, DC	The Mission, San Francisco, CA	4539837	145805
+Warehouse District, New Orleans, LALouisville, KY	Hampden, Baltimore, MD	852614	28773
+Highland Park, Los Angeles, CA	Los Feliz, Los Angeles, CA	14875	944
+Capitol Hill, Seattle, WA	Warehouse District, New Orleans, LALouisville, KY	3955874	127892
+Pearl District, Portland, OR	The Uptown, Oakland, CA	1013214	34241
+East Nashville, Nashville, TN	Boulder, CO	1890042	59747
+Little Five Points, Atlanta, GA	East Nashville, Nashville, TN	401326	13361
+Westheimer Road, Houston, TX	Alberta, Portland, OR	3534020	119675
+Wicker Park, Chicago, IL	Arts District, Los Angeles, CA	3243865	103225
+East Austin, Austin, TX	Hampden, Baltimore, MD	2502050	81726
+Capitol Hill, Seattle, WA	Wicker Park, Chicago, IL	3318290	106931
+Savannah, GA	Downtown, Portland, OR	4571871	146748
+Capitol Hill, Seattle, WA	Kansas City, MO	2957936	96552
+Williamsburg, Brooklyn, NY	Bushwick, Brooklyn, NY	4046	525
+Silver Lake, Los Angeles, CA	Alberta, Portland, OR	1551665	51098
+Warehouse District, New Orleans, LALouisville, KY	Savannah, GA	913810	29916
+Silver Lake, Los Angeles, CA	Pearl District, Portland, OR	1547060	50789
+Highland Park, Los Angeles, CA	Westheimer Road, Houston, TX	2484847	77365
+Little Five Points, Atlanta, GA	Portland, ME	1895687	64486
+North Park, San Diego, CA	The Mission, San Francisco, CA	803641	27159
+North Loop, Minneapolis, MN	Allston-Brighton, Boston, MA	2243851	74830
+Williamsburg, Brooklyn, NY	Asheville, NC	1112743	37459
+Highland Park, Los Angeles, CA	Allston-Brighton, Boston, MA	4787685	153861
+North Loop, Minneapolis, MN	Arts District, Los Angeles, CA	3101502	97989
+Allston-Brighton, Boston, MA	Somerville, MA	6341	866
+Warehouse District, New Orleans, LALouisville, KY	Portland, ME	1639565	55308
+Wynwood, Miami, FL	Alberta, Portland, OR	5232196	167301
+Silver Lake, Los Angeles, CA	Asheville, NC	3699168	117494
+Northern Liberties, Philadelphia, PA	Hampden, Baltimore, MD	176122	6630
+Charleston, SC	The Mission, San Francisco, CA	4457856	142522
+Kansas City, MO	The Mission, San Francisco, CA	2906285	92368
+H Street Corridor, Washington, DC	North Loop, Minneapolis, MN	1801311	60482
+Williamsburg, Brooklyn, NY	Somerville, MA	340600	13102
+Pearl District, Portland, OR	Bushwick, Brooklyn, NY	4666681	151397
+Somerville, MA	Downtown, Portland, OR	4968295	161759
+North Park, San Diego, CA	Warehouse District, New Orleans, LALouisville, KY	3484284	111609
+H Street Corridor, Washington, DC	Wynwood, Miami, FL	1690602	53851
+Silver Lake, Los Angeles, CA	North Park, San Diego, CA	196832	7359
+Boulder, CO	Wicker Park, Chicago, IL	1636312	51955
+Silver Lake, Los Angeles, CA	Arts District, Los Angeles, CA	8002	530
+Williamsburg, Brooklyn, NY	Charleston, SC	1224301	41104
+East Nashville, Nashville, TN	Warehouse District, New Orleans, LALouisville, KY	371477	12553
+Pearl District, Portland, OR	Los Feliz, Los Angeles, CA	1544921	50767
+Warehouse District, New Orleans, LALouisville, KY	Pearl District, Portland, OR	3858991	124176
+H Street Corridor, Washington, DC	Asheville, NC	760762	25733
+The Uptown, Oakland, CA	Downtown, Portland, OR	1011295	34212
+Boulder, CO	Hampden, Baltimore, MD	2700055	88508
+Providence, RI	Westheimer Road, Houston, TX	2923200	95916
+Savannah, GA	The Mission, San Francisco, CA	4376325	138831
+Silver Lake, Los Angeles, CA	Wynwood, Miami, FL	4396486	137729
+Asheville, NC	Alberta, Portland, OR	4244845	137027
+Williamsburg, Brooklyn, NY	Savannah, GA	1293222	43165
+Wynwood, Miami, FL	Charleston, SC	936497	30357
+Pearl District, Portland, OR	LoHi, Denver, CO	1993950	65220
+Little Five Points, Atlanta, GA	Allston-Brighton, Boston, MA	1731273	59002
+East Nashville, Nashville, TN	Wynwood, Miami, FL	1458993	46186
+LoHi, Denver, CO	Bushwick, Brooklyn, NY	2868553	93279
+Northern Liberties, Philadelphia, PA	The Mission, San Francisco, CA	4629812	148518
+Los Feliz, Los Angeles, CA	Hampden, Baltimore, MD	4258543	137205
+Capitol Hill, Seattle, WA	Los Feliz, Los Angeles, CA	1823249	60503
+Pearl District, Portland, OR	Westheimer Road, Houston, TX	3537310	119565
+Highland Park, Los Angeles, CA	Pearl District, Portland, OR	1551881	51013
+Northern Liberties, Philadelphia, PA	Asheville, NC	980339	33105
+Kansas City, MO	Boulder, CO	1001345	31175
+Capitol Hill, Seattle, WA	Providence, RI	4888965	159192
+Somerville, MA	Hampden, Baltimore, MD	647320	23696
+North Loop, Minneapolis, MN	Alberta, Portland, OR	2777614	89427
+East Nashville, Nashville, TN	Providence, RI	1713538	57160
+Asheville, NC	Downtown, Portland, OR	4247121	136886
+The Uptown, Oakland, CA	Savannah, GA	4361615	138029
+Highland Park, Los Angeles, CA	Wicker Park, Chicago, IL	3235840	102946
+North Park, San Diego, CA	Westheimer Road, Houston, TX	2351514	72557
+North Park, San Diego, CA	Portland, ME	4986057	161660
+Somerville, MA	The Mission, San Francisco, CA	4985490	160637
+Silver Lake, Los Angeles, CA	Bushwick, Brooklyn, NY	4480841	144947
+H Street Corridor, Washington, DC	East Austin, Austin, TX	2458538	79592
+Allston-Brighton, Boston, MA	Charleston, SC	1557205	52749
+Venice Beach, CA	Northern Liberties, Philadelphia, PA	4394076	141764
+North Park, San Diego, CA	Wicker Park, Chicago, IL	3339513	106225
+Somerville, MA	Asheville, NC	1462131	49639
+LoHi, Denver, CO	The Mission, San Francisco, CA	2011275	64943
+East Nashville, Nashville, TN	North Loop, Minneapolis, MN	1421824	46313
+Williamsburg, Brooklyn, NY	LoHi, Denver, CO	2864507	92754
+Westheimer Road, Houston, TX	Charleston, SC	1759086	57097
+Silver Lake, Los Angeles, CA	Westheimer Road, Houston, TX	2485583	77532
+Savannah, GA	North Loop, Minneapolis, MN	2216237	71749
+Pearl District, Portland, OR	Wynwood, Miami, FL	5235487	167191
+Los Feliz, Los Angeles, CA	Downtown, Portland, OR	1543542	50804
+Venice Beach, CA	East Austin, Austin, TX	2247983	71734
+Providence, RI	Warehouse District, New Orleans, LALouisville, KY	1416515	48137
+Silver Lake, Los Angeles, CA	Somerville, MA	4800737	154702
+Alberta, Portland, OR	Arts District, Los Angeles, CA	1556582	51396
+North Loop, Minneapolis, MN	Downtown, Portland, OR	2779890	89286
+Westheimer Road, Houston, TX	North Loop, Minneapolis, MN	1903109	62427
+Portland, ME	Asheville, NC	1624201	54698
+Providence, RI	Asheville, NC	1401151	47527
+Westheimer Road, Houston, TX	Asheville, NC	1622542	52801
+Providence, RI	Northern Liberties, Philadelphia, PA	441867	16290
+Wicker Park, Chicago, IL	Wynwood, Miami, FL	2218116	71542
+Allston-Brighton, Boston, MA	Northern Liberties, Philadelphia, PA	490580	18040
+Portland, ME	The Mission, San Francisco, CA	5146791	165638
+Pearl District, Portland, OR	Allston-Brighton, Boston, MA	4965052	160431
+Little Five Points, Atlanta, GA	North Park, San Diego, CA	3446307	107203
+Wynwood, Miami, FL	Hampden, Baltimore, MD	1758450	56649
+Venice Beach, CA	Charleston, SC	4005149	128378
+The Uptown, Oakland, CA	Westheimer Road, Houston, TX	3077740	96093
+Allston-Brighton, Boston, MA	Bushwick, Brooklyn, NY	338980	12836
+Downtown, Portland, OR	Arts District, Los Angeles, CA	1550599	51123
+Pearl District, Portland, OR	Alberta, Portland, OR	4903	548
+Portland, ME	Hampden, Baltimore, MD	818094	28856
+Boulder, CO	Providence, RI	3170497	102516
+Highland Park, Los Angeles, CA	Little Five Points, Atlanta, GA	3496104	110570
+Kansas City, MO	Wicker Park, Chicago, IL	844544	27606
+North Loop, Minneapolis, MN	Somerville, MA	2237058	75425
+Venice Beach, CA	Wynwood, Miami, FL	4416177	139015
+The Uptown, Oakland, CA	Bushwick, Brooklyn, NY	4675260	151549
+Portland, ME	Allston-Brighton, Boston, MA	178441	6673
+Wicker Park, Chicago, IL	Charleston, SC	1470120	48530
+Wicker Park, Chicago, IL	Allston-Brighton, Boston, MA	1581233	52906
+Asheville, NC	Bushwick, Brooklyn, NY	1116789	37985
+Pearl District, Portland, OR	Hampden, Baltimore, MD	4514580	145811
+Capitol Hill, Seattle, WA	Pearl District, Portland, OR	279910	9991
+Warehouse District, New Orleans, LALouisville, KY	The Uptown, Oakland, CA	3866314	123289
+Kansas City, MO	North Loop, Minneapolis, MN	704136	22645
+North Loop, Minneapolis, MN	Bushwick, Brooklyn, NY	1945480	65797
+Charleston, SC	Hampden, Baltimore, MD	925788	30856
+Pearl District, Portland, OR	Charleston, SC	4661977	150177
+North Park, San Diego, CA	Boulder, CO	1750659	56770
+East Austin, Austin, TX	The Uptown, Oakland, CA	2820079	88781
+Venice Beach, CA	Bushwick, Brooklyn, NY	4506660	146421
+Portland, ME	Arts District, Los Angeles, CA	4960123	159624
+Hampden, Baltimore, MD	Arts District, Los Angeles, CA	4254255	137004
+North Loop, Minneapolis, MN	Los Feliz, Los Angeles, CA	3105791	98190
+Warehouse District, New Orleans, LALouisville, KY	North Loop, Minneapolis, MN	1292700	43211
+Wicker Park, Chicago, IL	Somerville, MA	1583796	53424
+Venice Beach, CA	Allston-Brighton, Boston, MA	4823444	155692
+LoHi, Denver, CO	Savannah, GA	2654223	84033
+East Austin, Austin, TX	Asheville, NC	1853211	60232
+Little Five Points, Atlanta, GA	Boulder, CO	2289577	72809
+Kansas City, MO	H Street Corridor, Washington, DC	1709033	57776
+Wicker Park, Chicago, IL	Los Feliz, Los Angeles, CA	3248153	103426
+Capitol Hill, Seattle, WA	Charleston, SC	4784445	153965
+Williamsburg, Brooklyn, NY	The Mission, San Francisco, CA	4680275	150631
+Allston-Brighton, Boston, MA	Arts District, Los Angeles, CA	4795710	154140
+East Nashville, Nashville, TN	The Mission, San Francisco, CA	3711112	117647
+Venice Beach, CA	Westheimer Road, Houston, TX	2505274	78818
+Kansas City, MO	East Austin, Austin, TX	1185082	37474
+Little Five Points, Atlanta, GA	Los Feliz, Los Angeles, CA	3508417	111051
+Venice Beach, CA	Somerville, MA	4826557	156176
+Boulder, CO	Pearl District, Portland, OR	1965775	65183
+Providence, RI	Alberta, Portland, OR	4943701	160220
+Warehouse District, New Orleans, LALouisville, KY	LoHi, Denver, CO	1938168	61328
+Pearl District, Portland, OR	Portland, ME	5129466	165915
+Little Five Points, Atlanta, GA	Somerville, MA	1735830	59664
+North Park, San Diego, CA	Arts District, Los Angeles, CA	189790	7030
+Boulder, CO	North Loop, Minneapolis, MN	1495904	46993
+Capitol Hill, Seattle, WA	East Austin, Austin, TX	3426471	115828
+LoHi, Denver, CO	Arts District, Los Angeles, CA	1636444	52710
+Northern Liberties, Philadelphia, PA	Alberta, Portland, OR	4609197	148905
+The Uptown, Oakland, CA	Asheville, NC	4162985	132310
+Portland, ME	Wicker Park, Chicago, IL	1745647	58390
+Portland, ME	Charleston, SC	1721912	58155
+Wicker Park, Chicago, IL	Northern Liberties, Philadelphia, PA	1228668	41271
+Warehouse District, New Orleans, LALouisville, KY	Bushwick, Brooklyn, NY	1131726	38622
+Silver Lake, Los Angeles, CA	Charleston, SC	3979329	126904
+North Park, San Diego, CA	East Austin, Austin, TX	2094224	65472
+Capitol Hill, Seattle, WA	Westheimer Road, Houston, TX	3659779	123353
+The Uptown, Oakland, CA	Hampden, Baltimore, MD	4520599	146057
+Boulder, CO	Portland, ME	3352971	108321
+East Nashville, Nashville, TN	Pearl District, Portland, OR	3778472	121345
+Warehouse District, New Orleans, LALouisville, KY	Los Feliz, Los Angeles, CA	3518224	111002
+Capitol Hill, Seattle, WA	Little Five Points, Atlanta, GA	4246792	138227
+Capitol Hill, Seattle, WA	Northern Liberties, Philadelphia, PA	4554460	147877
+Kansas City, MO	Northern Liberties, Philadelphia, PA	1813187	60713
+Highland Park, Los Angeles, CA	Bushwick, Brooklyn, NY	4470901	144590
+East Austin, Austin, TX	Pearl District, Portland, OR	3305326	112077
+Little Five Points, Atlanta, GA	Charleston, SC	478328	16422
+East Nashville, Nashville, TN	Wicker Park, Chicago, IL	760454	25638
+North Park, San Diego, CA	North Loop, Minneapolis, MN	3197150	100990
+The Uptown, Oakland, CA	Alberta, Portland, OR	1016878	34501
+East Nashville, Nashville, TN	Arts District, Los Angeles, CA	3230670	101951
+Capitol Hill, Seattle, WA	Alberta, Portland, OR	277365	9961
+Warehouse District, New Orleans, LALouisville, KY	Charleston, SC	844408	27817
+Savannah, GA	Arts District, Los Angeles, CA	3895883	123135
+Charleston, SC	Alberta, Portland, OR	4658686	150287
+Highland Park, Los Angeles, CA	Asheville, NC	3689228	117137
+Williamsburg, Brooklyn, NY	Allston-Brighton, Boston, MA	337439	12654
+Kansas City, MO	Pearl District, Portland, OR	2888960	92645
+H Street Corridor, Washington, DC	Portland, ME	862250	30709
+Providence, RI	LoHi, Denver, CO	3145965	101621
+Highland Park, Los Angeles, CA	The Mission, San Francisco, CA	614975	20358
+Little Five Points, Atlanta, GA	Savannah, GA	396561	12922
+Little Five Points, Atlanta, GA	Wynwood, Miami, FL	1059163	33333
+Williamsburg, Brooklyn, NY	Alberta, Portland, OR	4659659	151018
+LoHi, Denver, CO	Asheville, NC	2327924	74162
+Silver Lake, Los Angeles, CA	Wicker Park, Chicago, IL	3245780	103303
+Capitol Hill, Seattle, WA	Boulder, CO	2088244	68971
+Silver Lake, Los Angeles, CA	Allston-Brighton, Boston, MA	4797625	154218
+Highland Park, Los Angeles, CA	Hampden, Baltimore, MD	4246230	136725
+Wynwood, Miami, FL	Arts District, Los Angeles, CA	4390142	137436
+Providence, RI	Downtown, Portland, OR	4945978	160079
+Little Five Points, Atlanta, GA	Northern Liberties, Philadelphia, PA	1253715	42260
+Boulder, CO	Northern Liberties, Philadelphia, PA	2835992	91201
+Highland Park, Los Angeles, CA	Charleston, SC	3969389	126546
+Wynwood, Miami, FL	Bushwick, Brooklyn, NY	2061008	67423
+East Nashville, Nashville, TN	Asheville, NC	471642	15912
+Warehouse District, New Orleans, LALouisville, KY	Wynwood, Miami, FL	1647452	52069
+Providence, RI	North Loop, Minneapolis, MN	2225791	74510
+Highland Park, Los Angeles, CA	East Nashville, Nashville, TN	3222645	101671
+Kansas City, MO	Westheimer Road, Houston, TX	1202515	40241
+The Uptown, Oakland, CA	Allston-Brighton, Boston, MA	4972376	159543
+Bushwick, Brooklyn, NY	Alberta, Portland, OR	4663390	151507
+Highland Park, Los Angeles, CA	Williamsburg, Brooklyn, NY	4467170	144101
+Boulder, CO	The Uptown, Oakland, CA	1973098	64296
+Highland Park, Los Angeles, CA	East Austin, Austin, TX	2227557	70281
+North Loop, Minneapolis, MN	Charleston, SC	2126042	70104
+Boulder, CO	Savannah, GA	2686326	85259
+Warehouse District, New Orleans, LALouisville, KY	Northern Liberties, Philadelphia, PA	1020379	34100
+Little Five Points, Atlanta, GA	LoHi, Denver, CO	2257474	71584
+East Nashville, Nashville, TN	Allston-Brighton, Boston, MA	1772175	58846
+Providence, RI	The Uptown, Oakland, CA	4954315	159224
+North Park, San Diego, CA	LoHi, Denver, CO	1732092	55710
+Highland Park, Los Angeles, CA	Downtown, Portland, OR	1550502	51049
+Westheimer Road, Houston, TX	Hampden, Baltimore, MD	2344220	76188
+Wicker Park, Chicago, IL	The Mission, San Francisco, CA	3430533	109238
+Northern Liberties, Philadelphia, PA	Bushwick, Brooklyn, NY	160144	6805
+Capitol Hill, Seattle, WA	Venice Beach, CA	1832676	61200
+East Austin, Austin, TX	Alberta, Portland, OR	3302446	112203
+Highland Park, Los Angeles, CA	Northern Liberties, Philadelphia, PA	4358317	139933
+Venice Beach, CA	Arts District, Los Angeles, CA	28908	1655
+Bushwick, Brooklyn, NY	Hampden, Baltimore, MD	325326	12281
+Capitol Hill, Seattle, WA	Bushwick, Brooklyn, NY	4599268	150272
+Providence, RI	Allston-Brighton, Boston, MA	87247	3469
+Venice Beach, CA	Providence, RI	4805384	155372
+East Austin, Austin, TX	Los Feliz, Los Angeles, CA	2230876	70700
+North Park, San Diego, CA	Northern Liberties, Philadelphia, PA	4336690	141021
+Providence, RI	Williamsburg, Brooklyn, NY	288726	10904
+LoHi, Denver, CO	Northern Liberties, Philadelphia, PA	2779817	90447
+Bushwick, Brooklyn, NY	The Mission, San Francisco, CA	4684006	151120
+The Uptown, Oakland, CA	North Loop, Minneapolis, MN	3171980	102949
+Somerville, MA	Bushwick, Brooklyn, NY	342289	13279
+H Street Corridor, Washington, DC	Northern Liberties, Philadelphia, PA	220278	8482
+Highland Park, Los Angeles, CA	Alberta, Portland, OR	1556486	51322
+Venice Beach, CA	Wicker Park, Chicago, IL	3271600	104777
+H Street Corridor, Washington, DC	Downtown, Portland, OR	4521498	146051
+Westheimer Road, Houston, TX	Somerville, MA	2982853	98018
+Providence, RI	Somerville, MA	87360	3768
+Venice Beach, CA	Pearl District, Portland, OR	1554348	51464
+North Park, San Diego, CA	Hampden, Baltimore, MD	4224603	137812
+Capitol Hill, Seattle, WA	The Mission, San Francisco, CA	1301863	44354
+Boulder, CO	Los Feliz, Los Angeles, CA	1659299	53970
+East Austin, Austin, TX	Savannah, GA	1812205	59576
+H Street Corridor, Washington, DC	North Park, San Diego, CA	4326851	136753
+Highland Park, Los Angeles, CA	Boulder, CO	1646986	53490
+Kansas City, MO	Warehouse District, New Orleans, LALouisville, KY	970996	31701
+Capitol Hill, Seattle, WA	Hampden, Baltimore, MD	4444608	144779
+Downtown, Portland, OR	The Mission, San Francisco, CA	1022156	34655
+Boulder, CO	Bushwick, Brooklyn, NY	2894004	94137
+East Austin, Austin, TX	East Nashville, Nashville, TN	1386628	44767
+North Loop, Minneapolis, MN	Wicker Park, Chicago, IL	655670	22466
+Kansas City, MO	Asheville, NC	1360140	44442
+Wynwood, Miami, FL	Northern Liberties, Philadelphia, PA	1912434	61894
+Savannah, GA	Northern Liberties, Philadelphia, PA	1148368	37887
+Williamsburg, Brooklyn, NY	Wicker Park, Chicago, IL	1279130	43384
+LoHi, Denver, CO	Allston-Brighton, Boston, MA	3164026	101941
+Little Five Points, Atlanta, GA	Pearl District, Portland, OR	4175972	134353
+Capitol Hill, Seattle, WA	East Nashville, Nashville, TN	3847257	125164
+Downtown, Portland, OR	Alberta, Portland, OR	5590	649
+Highland Park, Los Angeles, CA	Somerville, MA	4790797	154345
+H Street Corridor, Washington, DC	Providence, RI	649123	23474
+Savannah, GA	Wynwood, Miami, FL	776505	24614
+East Nashville, Nashville, TN	Bushwick, Brooklyn, NY	1431166	47687
+Los Feliz, Los Angeles, CA	Allston-Brighton, Boston, MA	4799998	154341
+Allston-Brighton, Boston, MA	Alberta, Portland, OR	4961762	160540
+Boulder, CO	The Mission, San Francisco, CA	1983100	64906
+Savannah, GA	Hampden, Baltimore, MD	994710	32916
+H Street Corridor, Washington, DC	Pearl District, Portland, OR	4522512	146083
+Little Five Points, Atlanta, GA	Arts District, Los Angeles, CA	3504129	110850
+Westheimer Road, Houston, TX	Wynwood, Miami, FL	1918950	60531
+Providence, RI	Wynwood, Miami, FL	2342663	76626
+LoHi, Denver, CO	Somerville, MA	3168962	102897
+Capitol Hill, Seattle, WA	LoHi, Denver, CO	2116418	69008
+Capitol Hill, Seattle, WA	Downtown, Portland, OR	280649	9999
+Kansas City, MO	Portland, ME	2462554	81352
+Westheimer Road, Houston, TX	Bushwick, Brooklyn, NY	2637511	86364
+Boulder, CO	Arts District, Los Angeles, CA	1655011	53769
+Kansas City, MO	Williamsburg, Brooklyn, NY	1922040	64880
+Charleston, SC	Downtown, Portland, OR	4660963	150146
+Los Feliz, Los Angeles, CA	The Mission, San Francisco, CA	608015	20113
+Somerville, MA	Alberta, Portland, OR	4965718	161921
+Kansas City, MO	Arts District, Los Angeles, CA	2602162	82025
+Alberta, Portland, OR	The Mission, San Francisco, CA	1028139	34928
+Allston-Brighton, Boston, MA	Downtown, Portland, OR	4964038	160399
+H Street Corridor, Washington, DC	Warehouse District, New Orleans, LALouisville, KY	860073	29072
+Silver Lake, Los Angeles, CA	Providence, RI	4779564	153899
+Warehouse District, New Orleans, LALouisville, KY	Westheimer Road, Houston, TX	1636000	54790
+Silver Lake, Los Angeles, CA	Northern Liberties, Philadelphia, PA	4368257	140291
+East Nashville, Nashville, TN	Northern Liberties, Philadelphia, PA	1292726	42737
+North Park, San Diego, CA	Bushwick, Brooklyn, NY	4449274	145677
+Venice Beach, CA	Williamsburg, Brooklyn, NY	4502929	145932
+Charleston, SC	Northern Liberties, Philadelphia, PA	1079773	36101
+Hampden, Baltimore, MD	Alberta, Portland, OR	4511290	145920
+Somerville, MA	Northern Liberties, Philadelphia, PA	492700	18426
+H Street Corridor, Washington, DC	Bushwick, Brooklyn, NY	367954	14000
+North Park, San Diego, CA	Wynwood, Miami, FL	4262417	132754
+Highland Park, Los Angeles, CA	H Street Corridor, Washington, DC	4294554	136496
+H Street Corridor, Washington, DC	Arts District, Los Angeles, CA	4302579	136776
+LoHi, Denver, CO	Hampden, Baltimore, MD	2667953	87282
+Portland, ME	LoHi, Denver, CO	3328439	107426
+Highland Park, Los Angeles, CA	Wynwood, Miami, FL	4395750	137562
+Savannah, GA	Somerville, MA	1629825	55311
+Little Five Points, Atlanta, GA	The Uptown, Oakland, CA	3967978	126424
+Highland Park, Los Angeles, CA	Portland, ME	4952098	159345
+Little Five Points, Atlanta, GA	Hampden, Baltimore, MD	1100715	37270
+Williamsburg, Brooklyn, NY	Los Feliz, Los Angeles, CA	4479483	144581
+Boulder, CO	Downtown, Portland, OR	1964761	65152
+Venice Beach, CA	The Uptown, Oakland, CA	602637	19963
+East Nashville, Nashville, TN	Somerville, MA	1773394	59215
+Venice Beach, CA	North Loop, Minneapolis, MN	3129237	99541
+Venice Beach, CA	Kansas City, MO	2629896	83576
+Highland Park, Los Angeles, CA	Kansas City, MO	2594137	81745
+East Nashville, Nashville, TN	LoHi, Denver, CO	1857939	58521
+Wicker Park, Chicago, IL	Alberta, Portland, OR	3407617	110121
+Northern Liberties, Philadelphia, PA	Arts District, Los Angeles, CA	4366342	140212
+Pearl District, Portland, OR	Savannah, GA	4572885	146780
+Warehouse District, New Orleans, LALouisville, KY	Downtown, Portland, OR	3857977	124145
+Providence, RI	Los Feliz, Los Angeles, CA	4781937	154021
+H Street Corridor, Washington, DC	The Uptown, Oakland, CA	4528058	146356
+East Austin, Austin, TX	Allston-Brighton, Boston, MA	3153745	103166
+Savannah, GA	Bushwick, Brooklyn, NY	1297269	43690
+Venice Beach, CA	North Park, San Diego, CA	207996	7790
+Somerville, MA	Charleston, SC	1560903	53251
+Wynwood, Miami, FL	The Mission, San Francisco, CA	4880595	156016
+East Austin, Austin, TX	Downtown, Portland, OR	3305023	112041
+Capitol Hill, Seattle, WA	Somerville, MA	4899677	159890
+Warehouse District, New Orleans, LALouisville, KY	Allston-Brighton, Boston, MA	1475152	49824
+North Park, San Diego, CA	Williamsburg, Brooklyn, NY	4445542	145188
+H Street Corridor, Washington, DC	Westheimer Road, Houston, TX	2281484	74112
+Providence, RI	Wicker Park, Chicago, IL	1563172	52586
+Kansas City, MO	Alberta, Portland, OR	2885670	92755
